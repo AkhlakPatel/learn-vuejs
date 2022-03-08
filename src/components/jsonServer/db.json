@@ -1,0 +1,19 @@
+{
+  "posts": [
+    {
+      "name": "Akhlak",
+      "profession": "Web developer",
+      "id": 1
+    },
+    {
+      "name": "wajid ",
+      "profession": "IOS developer",
+      "id": 2
+    },
+    {
+      "name": "Nagir ",
+      "profession": "IOS developer",
+      "id": 3
+    }
+  ]
+}
